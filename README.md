@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF4&center=true&vCenter=true&width=500&lines=Self-hosting+%26+Open+Source+Enthusiast;Docker+%7C+Linux+%7C+Home+Automation;Building+smart+solutions+with+code;Grottaglie%2C+Italia+%F0%9F%87%AE%F0%9F%87%B9" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="700" alt="Developer working with AI and servers" />
+</p>
+
 ---
 
 ## 🧑‍💻 About Me:
