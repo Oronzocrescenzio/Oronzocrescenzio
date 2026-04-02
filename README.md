@@ -49,16 +49,20 @@
 
 <br/>
 
-## 🚀 Featured Projects:
+## 🚀 Projects & Ideas:
 
-| Project | Description |
-|---------|-------------|
-| 🏢 **Segnalazioni App** | Full-stack web app per la gestione segnalazioni condominiali con AI, PWA e notifiche real-time |
-| 🤖 **Telegram Bots** | Bot personalizzati per alert automatici, notifiche e solleciti intelligenti |
-| 📝 **Blog Agent** | Agente AI che scrive e pubblica articoli automaticamente ogni giorno |
-| 📂 **Drive Nomenclatura** | Agente notturno che rinomina e organizza PDF su Google Drive |
-| 🔄 **n8n Workflows** | Automazioni personalizzate per gestione documentale e notifiche |
-| 🏠 **Homelab** | Server self-hosted con 15+ container Docker, reverse proxy e monitoraggio |
+| # | Project | Stack |
+|---|---------|-------|
+| 1 | 🌦️ **Weather Dashboard** | React, OpenWeatherMap API, Chart.js |
+| 2 | 🎵 **Spotify Playlist Analyzer** | Node.js, Spotify API, D3.js |
+| 3 | 📸 **Image Compressor CLI** | Python, Pillow, Click |
+| 4 | 💬 **Real-time Chat App** | Socket.io, Express, React |
+| 5 | 📊 **Personal Finance Tracker** | PostgreSQL, Prisma, React, Recharts |
+| 6 | 🗺️ **Travel Map** | Leaflet.js, GeoJSON, Tailwind CSS |
+| 7 | 🔐 **2FA Manager** | Node.js, OTPAuth, Electron |
+| 8 | 📰 **RSS Feed Aggregator** | n8n, Telegram Bot API, SQLite |
+| 9 | 🧠 **AI Prompt Library** | Next.js, Claude API, MDX |
+| 10 | 🏠 **Home Server Monitor** | Docker API, Grafana, Prometheus |
 
 <br/>
 
