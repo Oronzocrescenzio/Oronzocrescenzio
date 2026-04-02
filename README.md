@@ -14,7 +14,6 @@
 - 🏠 Gestisco un **home server** con Docker, Nginx Proxy Manager, n8n e molto altro
 - 🤖 Appassionato di **AI e automazione** — integro Claude AI nei miei progetti
 - 🐧 **Linux lover** — il terminale è il mio habitat naturale
-- 🌐 Il mio sito: [studiorizzardo.it](https://studiorizzardo.it)
 - 📍 **Grottaglie, Italia**
 - ⚡ Fun fact: **Automatizzo tutto quello che posso, anche le cose che non servono** 😄
 
