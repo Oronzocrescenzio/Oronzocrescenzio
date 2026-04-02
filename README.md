@@ -63,14 +63,6 @@
 
 <br/>
 
-## ❤️ Let's get connected:
-
-<p align="left">
-  <a href="https://studiorizzardo.it" target="_blank"><img src="https://img.shields.io/badge/Website-studiorizzardo.it-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:segreteria@studiorizzardo.it"><img src="https://img.shields.io/badge/Email-segreteria@studiorizzardo.it-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<br/>
 
 ## 📊 My GitHub Data:
 
