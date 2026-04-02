@@ -10,12 +10,12 @@
 
 ## 🧑‍💻 About Me:
 
-- 🔭 Sto lavorando su **progetti di automazione e self-hosting**
-- 🏠 Gestisco un **home server** con Docker, Nginx Proxy Manager, n8n e molto altro
-- 🤖 Appassionato di **AI e automazione** — integro Claude AI nei miei progetti
-- 🐧 **Linux lover** — il terminale è il mio habitat naturale
-- 📍 **Grottaglie, Italia**
-- ⚡ Fun fact: **Automatizzo tutto quello che posso, anche le cose che non servono** 😄
+- 🔭 Currently working on **automation and self-hosting projects**
+- 🏠 Running a **home server** with Docker, Nginx Proxy Manager, n8n and much more
+- 🤖 Passionate about **AI and automation** — I integrate Claude AI into my projects
+- 🐧 **Linux lover** — the terminal is my natural habitat
+- 📍 **Grottaglie, Italy**
+- ⚡ Fun fact: **I automate everything I can, even the things that don't need it** 😄
 
 <br/>
 
