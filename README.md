@@ -49,17 +49,16 @@
 
 <br/>
 
-## 🏗️ What I Self-Host:
+## 🚀 Featured Projects:
 
-| Service | Description |
+| Project | Description |
 |---------|-------------|
-| 🔒 **Vaultwarden** | Password manager |
-| 📊 **Uptime Kuma** | Monitoraggio uptime |
-| ☁️ **Nextcloud** | Cloud personale |
-| 🔄 **n8n** | Workflow automation |
-| 🛡️ **CrowdSec** | Sicurezza e firewall |
-| 📋 **Dozzle** | Log viewer Docker |
-| 🌐 **Nginx Proxy Manager** | Reverse proxy |
+| 🏢 **Segnalazioni App** | Full-stack web app per la gestione segnalazioni condominiali con AI, PWA e notifiche real-time |
+| 🤖 **Telegram Bots** | Bot personalizzati per alert automatici, notifiche e solleciti intelligenti |
+| 📝 **Blog Agent** | Agente AI che scrive e pubblica articoli automaticamente ogni giorno |
+| 📂 **Drive Nomenclatura** | Agente notturno che rinomina e organizza PDF su Google Drive |
+| 🔄 **n8n Workflows** | Automazioni personalizzate per gestione documentale e notifiche |
+| 🏠 **Homelab** | Server self-hosted con 15+ container Docker, reverse proxy e monitoraggio |
 
 <br/>
 
